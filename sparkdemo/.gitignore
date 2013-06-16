@@ -1,0 +1,9 @@
+/target
+/logs
+/sparkdemo.iml
+/h2-create.sql
+/h2-drop.sql
+/.idea
+/.settings
+/sparkdemo.h2.db
+/sparkdemo.lock.db
